@@ -7,6 +7,16 @@ get started by clicking on the following button to work in Binder
 
 This is a selection of some works available in the qiskit tutorials, you can find more info here: [Qiskit](https://www.qiskit.org/)
 
+## Installing qiskit Locally on your machine
+The best way of installing `qiskit` is using `pip`:
+
+```bash
+$ pip install qiskit
+```
+
+See the official qiskit repository for the [detailed install instructions](https://github.com/Qiskit/qiskit/blob/master/docs/install.rst), in particular if you plan on using virtual environments, or building from source standalone versions of the individual Qiskit elements and components.
+
+
 ## Authors and Citation
 
 Qiskit Tutorials is the work of [many people](https://github.com/Qiskit/qiskit-tutorials/graphs/contributors) who contribute
