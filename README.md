@@ -7,6 +7,7 @@ get started by clicking on the following button to work in Binder
 
 This is a selection of some works available in the qiskit tutorials, you can find more info here: [Qiskit](https://www.qiskit.org/)
 
+
 ## Installing qiskit Locally on your machine
 The best way of installing `qiskit` is using `pip`:
 
@@ -21,6 +22,9 @@ See the official qiskit repository for the [detailed install instructions](https
 
 Qiskit Tutorials is the work of [many people](https://github.com/Qiskit/qiskit-tutorials/graphs/contributors) who contribute
 to the project at different levels. If you use Qiskit, please cite as per the included [BibTeX file](https://github.com/Qiskit/qiskit/blob/master/Qiskit.bib).
+
+In particular the notebook on the introduction of qiskit was created by **Francesco Tacchino** from [this repository](https://github.com/quantumofme/pavia-qiskit-tutorials) and reviewed for the workshop by **Michele Grossi**
+
 
 ## License
 
